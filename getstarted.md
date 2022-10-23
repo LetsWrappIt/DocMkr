@@ -16,7 +16,7 @@ First, download the DocMkr zip or tar file to any directory on your computer and
 - [macOS] -- coming
 
 
-For detailed information on DocMkr releases, see the [DocMkr changelog page](changelog.md).
+For information on DocMkr releases, see the [changelog](changelog.md).
 
 ## Run DocMkr
 
