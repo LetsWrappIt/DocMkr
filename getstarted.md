@@ -1,11 +1,13 @@
+[Table of contents](toc.md)
+
 # Get started with DocMkr
 
-DocMkr is a command-line utility that you can use to generate proper PDF documents from HTML and Markdwon. This page helps you download DocMkr and get ready with DocMkr.
+DocMkr is a command-line utility that generates proper PDF documents from HTML and Markdown. This page helps you download DocMkr and get ready with DocMkr.
 
 <a id="download-docmkr"></a>
 ## Download DocMkr
 
-First, download the DocMkr executable file to any directory on your computer. DocMkr is just an executable file, so there's nothing to install.
+First, download the DocMkr zip or tar file to any directory on your computer and unzip it. The DocMkr zip file contains just one executable file, so after unzipping it, there's nothing to install.
 
 - [Windows 64-bit](https://docmkrapi.azurewebsites.net/docmkr-windows-64bit--latest.zip) (zip)
 - [Windows 64-bit](https://docmkrapi.azurewebsites.net/docmkr-windows-32bit--latest.zip) (zip)
