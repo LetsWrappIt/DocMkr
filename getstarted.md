@@ -18,6 +18,12 @@ First, download the DocMkr zip or tar file to any directory on your computer and
 
 For information on DocMkr releases, see the [changelog](changelog.md).
 
+## Unzipping
+The DocMkr zip file is encrypted using a password. For unzipping, this password is required. The password is the same as the zip file name, excluding the archive extension.
+Example:
+    Zip file: docmkr-win64-0.9.2.0.zip 
+    Password: docmkr-win64-0.9.2.0
+
 ## Run DocMkr
 
 For convenience, consider adding the directory location of the DocMkr executable to your system path for ease of use. That way you can type `docmkr` from any directory on your system.
