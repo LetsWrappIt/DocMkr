@@ -9,11 +9,11 @@ DocMkr is a command-line utility that generates proper PDF documents from HTML a
 
 First, download the DocMkr zip or tar file to any directory on your computer and unzip it. The DocMkr zip file contains just one executable file, so after unzipping it, there's nothing to install.
 
-- [Windows 64-bit](https://docmkrapi.azurewebsites.net/docmkr-windows-64bit--latest.zip) (zip)
-- [Windows 64-bit](https://docmkrapi.azurewebsites.net/docmkr-windows-32bit--latest.zip) (zip)
-- [Linux x86-64] -- coming
+- [Windows 64-bit](https://docmkrapi.azurewebsites.net/download?package=docmkr&platform=win64$version=latest) (zip)
+- [Windows 32-bit]      -- coming
+- [Linux x86-64]        -- coming
 - [Linux ARM64 Preview] -- coming
-- [macOS] -- coming
+- [macOS]               -- coming
 
 
 For information on DocMkr releases, see the [changelog](changelog.md).
