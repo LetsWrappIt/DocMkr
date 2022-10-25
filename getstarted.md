@@ -30,6 +30,6 @@ Example:
 
 For convenience, consider adding the directory location of the DocMkr executable to your system path for ease of use. That way you can type `docmkr` from any directory on your system.
 
-If you choose not to add the DocMkr directory to your path, you'll have to change directories to the location of your DocMkr executable and type `docmkr` or `.\docmkr` in Windows PowerShell command prompts.
+If you choose not to add the DocMkr directory to your path, you'll have to change directories to the location of your DocMkr executable and type `docmkr` or `.\docmkr` in Linux\MacOs\PowerShell command prompts.
 
 
