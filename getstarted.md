@@ -19,7 +19,7 @@ First, download the DocMkr zip or tar file to any directory on your computer and
 For information on DocMkr releases, see the [changelog](changelog.md).
 
 ## Unzipping
-The DocMkr zip file is encrypted using a password. To unzip the archive, this password is required. The password is the same as the beginning of the zip file name: the [ackage name, a dash and the platform name.
+The DocMkr zip file is encrypted using a password. To unzip the archive, this password is required. The password is the same as the beginning of the zip file name: the package name, a dash and the platform name.
 
 Example:
 
