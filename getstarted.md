@@ -21,8 +21,8 @@ For information on DocMkr releases, see the [changelog](changelog.md).
 ## Unzipping
 The DocMkr zip file is encrypted using a password. For unzipping, this password is required. The password is the same as the zip file name, excluding the archive extension.
 Example:
-    Zip file: docmkr-win64-0.9.2.0.zip 
-    Password: docmkr-win64-0.9.2.0
+- Zip file: docmkr-win64-0.9.2.0.zip 
+- Password: docmkr-win64-0.9.2.0
 
 ## Run DocMkr
 
