@@ -2,7 +2,7 @@
 
 # Changelog
 
-- 2022-??-??
-	* Bumbed version to v0.9.0
+- 2022-10-25
+	* Bumbed version to 0.9.0.9
 	* Introduction of DocMkr on GitHub.
 
