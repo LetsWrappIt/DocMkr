@@ -1,7 +1,8 @@
 [Table of contents](toc.md)
+![](https://api.docmkr.com/counter?package=DocMkr&platform=win64&version=latest)
+
 
 # Get started
-
 DocMkr is a commandline utility that generates proper PDF documents from HTML and Markdown. This page helps you to download and get ready with DocMkr.
 
 <a id="download-docmkr"></a>
