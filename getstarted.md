@@ -4,7 +4,7 @@
 
 
 # Get started
-DocMkr is a commandline utility that generates proper PDF documents from HTML and Markdown. This page helps you to download and get ready with DocMkr.
+This page helps you to download and get ready with DocMkr.
 
 <a id="download-docmkr"></a>
 ## Download
