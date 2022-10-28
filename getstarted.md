@@ -1,6 +1,6 @@
 [Table of contents](toc.md)
 
-![](https://api.docmkr.com/counter?package=DocMkr&platform=win64&version=latest)
+![](https://api.docmkr.com/stats?package=DocMkr)
 
 
 # Get started
