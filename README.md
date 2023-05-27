@@ -28,7 +28,7 @@ Pick your favorite text/XML/HTML editor (VSCode for example) for writing content
 Step 2: Write a DmContent file
 Write a HTML document with some content, this is the DmContent file (dmc).
 Example:
-
+```
 <html>
 <body>
     <section>
@@ -37,15 +37,16 @@ Example:
     </section>
 </body>
 </html>
-
+```
 Save as: manual.dmc.html
 
 
 Step 3: Write a DmTemplate file
 Write a XML document with styling configuration, this is the shortest, and still viable, DmTemplate file (dmt).
+```
 <docmkr-template>
 </docmkr-template>
-
+```
 Save as: simple.dmt.xml
 
 Step 4: Donwload DocMkr cli
