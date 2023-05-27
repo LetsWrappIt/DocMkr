@@ -24,7 +24,7 @@ DocMkr itself comes in the form of a cli (win/linux/mac). Use your favorite text
 ## Start tutorial
 
 ### Step 1: Get your editor
-Pick your favorite text/XML/HTML editor (VSCode for example) for writing content.
+Pick your favorite text/XML/HTML editor for writing content and styling.
 
 ### Step 2: Write a DmContent file
 Write a HTML document with some content, this is the DmContent file (dmc).
@@ -52,7 +52,7 @@ Save as: simple.dmt.xml
 
 ### Step 4: Donwload DocMkr cli
 
-You can do that here
+You can do that [here](download.md)!
 
 
 ### Step 5: Write a build script
