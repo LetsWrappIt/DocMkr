@@ -50,21 +50,23 @@ Write a XML document with styling configuration, this is the shortest, and still
 Save as: simple.dmt.xml
 
 Step 4: Donwload DocMkr cli
+
 You can do that here
 
 
-Step 5: Write a build script (1 line, 1 commmand)
+Step 5: Write a build script
+
 Write a one line script file, to call the cli with proper arguments, something like:
 
 Example:
+```
 ./docmkr.exe build /dmt:simple.dmt.xml /dmc:manual.dmc.html
+```
 
 Save as: make-manual.cmd
 
-Call the script which will build your first PDF document.
+Call the build script, it will call DocMkr to build your first PDF document.
 From here you can build further and further.
-
-
 
 
 
