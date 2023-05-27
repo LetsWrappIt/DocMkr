@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LetsWrappIt/DocMkr/blob/main/images/DocMkr_logo_1280x640.png" width="300" height="150">
 
-DocMkr, short for DocMaker, is a scratch-your-own-itch, yet very powerfull tool, that generates proper PDF documents.
+DocMkr, short for DocMaker, is an unopinionated, scratch-your-own-itch, yet very powerfull tool, that generates proper PDF documents.
 
 What makes DocMkr so usefull for many:
 - It generates beautiful PDF documents
@@ -10,6 +10,8 @@ What makes DocMkr so usefull for many:
 - Seperation of styling and content: this allows for sharing and reuse of style templates.
 - Support conditional generate process (write 1 manual, publish for 10 brands?)
 - Support multi file projects. This allows for modular organization of both content and style, it enables large document scenarios.
+- Very suitable for version control on github for example.
+- unopinionated 
 
 
 ## How does DocMkr work?
