@@ -53,6 +53,9 @@ Write a XML document with styling configuration, this is the shortest, and still
 ```
 Save as: simple.dmt.xml
 
+ Since this simple.dmt.xml file is almost empty, DocMkr will use default values. This will result in a nicely readable PDF. 
+ The easiest way to author your own DmTemplate file, is to take an existing one, and modify settings you see in there.
+
 ### Step 4: Donwload DocMkr cli
 
 You can do that [here](download.md)!
