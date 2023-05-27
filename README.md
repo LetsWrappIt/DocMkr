@@ -15,10 +15,13 @@ What makes DocMkr so usefull for many:
 
 ## How does DocMkr work?
 The main function of DocMkr is the 'build' process, which takes 2 core files and transforms those into a PDF document.
-The first file is a DocMkr Template file, DmTemplate, or dmt.
-The second file is a DocMkr Content file, DmContent, or dmc.
 
-DocMkr itself comes in the form of a cli (win/linux/mac). Use your favorite text/html/xml editor (exmample: VsCode) to edit the content and the styling.
+- The first file is a DocMkr Template file, DmTemplate, or dmt.
+- The second file is a DocMkr Content file, DmContent, or dmc.
+
+DocMkr itself comes in the form of a cli (win/linux/mac).
+
+Use your favorite text/html/xml editor (exmample: VsCode) to edit the content and the styling.
 
 
 ## Start tutorial
