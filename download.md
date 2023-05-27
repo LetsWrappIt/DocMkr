@@ -3,7 +3,7 @@
 ![](https://api.docmkr.com/stats?package=DocMkr)
 
 
-# Get started
+# Download DocMkr
 This page helps you to download and get ready with DocMkr.
 
 <a id="download-docmkr"></a>
@@ -25,7 +25,7 @@ The DocMkr zip file is encrypted using a password. To unzip the archive, this pa
 
 Example:
 
-- Zip file: docmkr-win64-0.9.2.0.zip 
+- Zip file: docmkr-win64-0.9.2.zip 
 - Password: docmkr-win64
 
 ## Run DocMkr

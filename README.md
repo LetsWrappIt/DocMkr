@@ -6,7 +6,7 @@ DocMkr, short for DocMaker, is a scratch-your-own-itch, yet very powerfull tool,
 
 What makes DocMkr so usefull for many:
 - It generates beautiful PDF documents
-- It supports all 'classic' document structure stuff like: Sections, Pages, Headers, Footers, Headings,  TableOfContents, Images ... 
+- It supports 'classic' document structures like: Sections, Pages, Headers, Footers, Headings, TableOfContents, Images ... 
 - Seperation of styling and content: this allows for sharing and reuse of style templates.
 - Support conditional generate process (write 1 manual, publish for 10 brands?)
 - Support multi file projects. This allows for modular organization of both content and style, it enables large document scenarios.
