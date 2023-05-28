@@ -23,7 +23,7 @@ DocMkr itself comes in the form of a console app (win/linux/mac).
 
 Use your favorite text/html/xml editor to edit content and styling template.
 
-## 'Start here' - tutorial
+## "Start Here" tutorial
 
 ### Step 1: Get your editor
 Pick your favorite text/XML/HTML editor (example: VsCode) for writing content and styling. 
