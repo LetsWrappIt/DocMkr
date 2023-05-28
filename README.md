@@ -35,8 +35,8 @@ Example:
 <html>
 <body>
     <section>
-        <h1>This is a manual</h1>
-        <p>The manual for this device ...</p>
+        <h1>A short manual</h1>
+        <p>This is a very short manual ...</p>
     </section>
 </body>
 </html>
