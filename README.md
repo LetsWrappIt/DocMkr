@@ -8,8 +8,8 @@ What makes DocMkr so usefull?
 - DocMkr generates beautiful PDF documents
 - It supports 'classic' document structures like: Sections, Pages, Headers, Footers, Headings, TableOfContents, Images ... 
 - It separates styling and content: this allows for sharing and reuse of style templates.
-- Supports conditional generate process (write 1 tutorial, publish for 10 brands?)
-- Support for multi file projects. This facilitates large document scenarios.
+- DocMkr supports a conditional build process (write 1 tutorial, publish for 10 brands?)
+- It supports multi file projects. This facilitates large document scenarios.
 - Very suitable for version control on github (and others).
 
 
@@ -79,5 +79,5 @@ From here you can build further.
 
 Some links:
 - [Table of contents](toc.md)
-- [download](download.md)
+- [Download](download.md)
 - [ChangeLog](changelog.md)
