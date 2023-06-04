@@ -18,11 +18,9 @@ What makes DocMkr so usefull?
 The main function of DocMkr is the 'build' process, which takes 2 core files and transforms those into a PDF document.
 
 - The first file is a DocMkr Template file (DmTemplate or dmt), which contains the styling settings.
-- The second file is a DocMkr Content file (DmContent or dmc).
+- The second file is a DocMkr Content file (DmContent or dmc), which contains the actual content.
 
 DocMkr itself comes in the form of a console app (win/linux/mac).
-
-Use your favorite text/html/xml editor to edit content and styling template.
 
 ## "Start Here" tutorial
 
@@ -53,8 +51,7 @@ Write a XML document with styling configuration, this is the shortest, and still
 ```
 Save as: simple.dmt.xml
 
- Since this simple.dmt.xml file is almost empty, DocMkr will use default values. This will result in a nicely readable PDF. 
- The easiest way to author your own DmTemplate file, is to take an existing one and modify settings in that template.
+Since this simple.dmt.xml file is almost empty, DocMkr will use default values. This will result in a nicely readable PDF. 
 
 ### Step 4: Donwload DocMkr cli
 
@@ -73,8 +70,10 @@ Example:
 Save as: generate-manual.cmd
 
 ### Step 6: Build the PDF
-Call the build script. It will call DocMkr to build your first PDF document.
-From here you can build further.
+Call the build 'generate-manual.cmd' script. It will call DocMkr to build your first PDF document.
+
+From here you can build further as you like, follow your own preferences in naming, styling etc.
+
 
 
 
