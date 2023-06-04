@@ -4,7 +4,7 @@
 
 DocMkr, short for DocMaker, is an unopinionated, scratch-your-own-itch, yet powerfull tool, that generates proper PDF documents.
 
-What makes DocMkr so usefull?
+What makes DocMkr so useful?
 - DocMkr generates beautiful PDF documents.
 - DocMkr uses plain text/xml/html/markdown files as input.
 - It separates styling and content: this allows for sharing and reuse of style templates.
