@@ -24,7 +24,7 @@ DocMkr itself comes in the form of a console app (win/linux/mac).
 
 ## "Start Here" tutorial
 
-### Step 1: Get your editor
+### Step 1: Get your favorite editor
 Pick your favorite text/XML/HTML editor (example: VsCode) for writing content and styling. 
 
 ### Step 2: Write a DmContent file
