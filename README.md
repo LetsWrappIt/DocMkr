@@ -60,19 +60,19 @@ You can do that [here](download.md)!
 
 ### Step 5: Write a build script
 
-Write a one line script which includes the proper arguments to start the PDF generation process. Something like:
+Write a one line script which includes the proper arguments to start the PDF generation process.
 
 Example:
 ```
 ./docmkr.exe build /dmt:simple.dmt.xml /dmc:manual.dmc.html
 ```
 
-Save as: generate-manual.cmd
+Save this script as: generate-manual.cmd
 
 ### Step 6: Build the PDF
 Call the build 'generate-manual.cmd' script. It will call DocMkr to build your first PDF document.
 
-From here you can build further as you like, follow your own preferences in naming, styling etc.
+From here you can build further as you like, use additional parameters to tweak the DocMkr behavior, follow your own preferences in naming, styling etc.
 
 
 
