@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LetsWrappIt/DocMkr/blob/main/images/DocMkr_logo_1280x640.png" width="300" height="150">
 
-DocMkr, short for DocMaker, is an unopinionated, scratch-your-own-itch, yet powerfull tool, that generates proper PDF documents.
+DocMkr, short for DocMaker, is an unopinionated, scratch-your-own-itch, yet powerful tool, that generates proper PDF documents.
 
 What makes DocMkr so useful?
 - DocMkr generates beautiful PDF documents.
@@ -53,7 +53,7 @@ Save as: simple.dmt.xml
 
 Since this simple.dmt.xml file is almost empty, DocMkr will use default values. This will result in a nicely readable PDF. 
 
-### Step 4: Donwload DocMkr cli
+### Step 4: Download DocMkr cli
 
 You can do that [here](download.md)!
 
