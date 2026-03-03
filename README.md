@@ -77,6 +77,20 @@ From here you can build further as you like, use additional parameters to tweak 
 
 
 
+## Project Status
+
+| Item | Status |
+|------|--------|
+| Current version | 1.0.0 |
+| Windows 64-bit | ✅ Available |
+| Windows 32-bit | 🔜 Coming |
+| Linux x86-64 | 🔜 Coming |
+| Linux ARM64 | 🔜 Coming |
+| macOS | 🔜 Coming |
+
+For more details see the [ChangeLog](changelog.md) and [Download](download.md) pages.
+
+
 Some links:
 - [Table of contents](toc.md)
 - [Download](download.md)
